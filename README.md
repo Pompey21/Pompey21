@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Marko and I enjoy coding sometimes:)
+
 <!--
 **Pompey21/Pompey21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
