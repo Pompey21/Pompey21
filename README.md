@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My name is Marko and I enjoy coding sometimes:)
+I'm a recent graduate of Computer Science from the University of Edinburgh, where I predominantly focused on theoretical aspects of the field. Currently open to try out different projects and meet with different technologies as I want to explore this beautiful field a bit more before I embark on future studies!
+
+Previously, I built assistive Bots for traders at JP Morgan, and automated text-classifications for energy trading firm Gen-I.
+
 
 <!--
 **Pompey21/Pompey21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
