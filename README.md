@@ -4,8 +4,6 @@ I'm a recent graduate of Computer Science from the University of Edinburgh, wher
 
 Previously, I built assistive Bots for traders at JP Morgan, and automated text-classifications for energy trading firm Gen-I.
 
-[![Marko's Holopin board](https://holopin.me/alpineglitch)](https://holopin.io/@alpineglitch)
-
 
 <!--
 **Pompey21/Pompey21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
